@@ -1,0 +1,17 @@
+Jeon Sangeon / 20180569
+Assignment 5 - A Unix Shell
+
+This is a retrospective learning/review version of the archived work.
+The original code is retained in ../old with WRONG: comments.
+Corrections and regression tests were prepared with OpenAI Codex assistance.
+New explanatory comments start with CORRECTED:.
+
+Build and run: ./run.sh
+Regression checks: ./run.sh --test
+The historical course sample binaries/test clients were not supplied.
+No signed ethics document has been created or represented as the author's.
+
+The provided DynArray implementation/attribution is preserved unchanged.
+The shell adds input/output redirection, validates every pipeline stage,
+reads HOME/.ishrc, and implements the required foreground/signal behavior.
+This retrospective assistance does not establish solo-work extra credit.

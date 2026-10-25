@@ -1,0 +1,5 @@
+/.venv/
+/.work/
+/.build/
+**/corrected/.build/
+**/__pycache__/

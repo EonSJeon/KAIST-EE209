@@ -1,0 +1,48 @@
+CORRECTED: Textual DFA for the preserved wc209 implementation.
+Author: Jeon Sangeon, Assignment 1; retrospective documentation.
+
+States: OUT_WORD (initial), IN_WORD, START_COM_OUT, START_COM_IN,
+        IN_COM, END_COM.
+Actions: C = increment characters, W = increment words.
+Before each transition, increment nLine for a newline. For the first
+input character only, initialize nLine to 1. Empty input stays at 0.
+
+OUT_WORD:
+  whitespace -> OUT_WORD; C
+  /          -> START_COM_OUT; C
+  otherwise  -> IN_WORD; C,W
+IN_WORD:
+  whitespace -> OUT_WORD; C
+  /          -> START_COM_IN; C
+  otherwise  -> IN_WORD; C
+START_COM_OUT:
+  whitespace -> OUT_WORD; C,W
+  *          -> IN_COM; remember current nLine as err_line
+  /          -> START_COM_IN; C,W
+  otherwise  -> IN_WORD; C,W
+START_COM_IN:
+  whitespace -> OUT_WORD; C
+  *          -> IN_COM; remember current nLine as err_line
+  /          -> START_COM_IN; C
+  otherwise  -> IN_WORD; C
+IN_COM:
+  *          -> END_COM
+  newline    -> IN_COM; C
+  otherwise  -> IN_COM
+END_COM:
+  /          -> OUT_WORD
+  *          -> END_COM
+  newline    -> IN_COM; C
+  otherwise  -> IN_COM
+
+EOF:
+  START_COM_OUT -> W, then success
+  IN_COM/END_COM -> stderr unterminated comment at err_line, failure
+  other states -> success
+A successful run prints nLine nWord nLetr followed by newline.
+A read error is reported separately as a failure.
+
+The slash counted upon entering a possible comment supplies the one
+replacement-space character if the next character is '*'. A word for
+that slash is deferred in START_COM_OUT until it is known not to open
+a comment. Comment newlines are preserved, not discarded.

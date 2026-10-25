@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+ASSIGNMENTS_DIR=$(CDPATH= cd -- "$(dirname -- "$0")/../.." && pwd)
+# When invoked through .venv/bin, ../.. is assignments; through bin it is repo.
+if [ ! -f "$ASSIGNMENTS_DIR/tools/run.py" ]; then
+    ASSIGNMENTS_DIR="$ASSIGNMENTS_DIR/assignments"
+fi
+exec "$ASSIGNMENTS_DIR/.venv/bin/python" "$ASSIGNMENTS_DIR/tools/run.py" "$@"

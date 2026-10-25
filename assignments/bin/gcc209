@@ -1,0 +1,4 @@
+#!/bin/sh
+# Native C convenience wrapper; the historical course gcc209 is unavailable.
+# IA-32 assembly uses ee209/precepts.sh, not a native arm64 linker.
+exec "${CC:-cc}" -std=c99 -D_DEFAULT_SOURCE -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -Wall -Wextra -Wpedantic "$@"

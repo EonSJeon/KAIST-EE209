@@ -1,0 +1,12 @@
+Jeon Sangeon / 20180569
+Assignment 1 - A Word Counting Program
+
+This is a retrospective learning/review version of the archived work.
+The original code is retained in ../old with WRONG: comments.
+Corrections and regression tests were prepared with OpenAI Codex assistance.
+New explanatory comments start with CORRECTED:.
+
+Build and run: ./run.sh
+Regression checks: ./run.sh --test
+The historical course sample binaries/test clients were not supplied.
+No signed ethics document has been created or represented as the author's.

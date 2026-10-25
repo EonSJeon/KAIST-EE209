@@ -1,0 +1,4 @@
+# PDF inspection and actual IA-32 instruction execution on Apple Silicon.
+pypdf==6.21.2
+pyelftools==0.33
+unicorn==2.1.4

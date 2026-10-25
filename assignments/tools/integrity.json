@@ -1,0 +1,473 @@
+{
+  "original_assignments": {
+    "1 A Word Counting Program/old/.DS_Store": {
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/EE209 Assignment1.pdf": {
+      "sha256": "e5c5496ff42ca7ab61ab8187ac5a0d1b1622776b8766e606877769a5477dd49b",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/old/dfa.pdf": {
+      "sha256": "76813691638cc6c5366e528da416fc11cb2b98fba1c0336000b7132f5840502b",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/old/wc209": {
+      "sha256": "9a46887c144675fad9d28e664a44355c4f5f1d4f90a6410b04aaf17e62d7bd8f",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/old/wc209.c": {
+      "sha256": "7b5bf9264fac3fef9aee716b5abe962793f476facfcb6dde201ff4d3fd1808f0",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "1 A Word Counting Program/old/wc209.i": {
+      "sha256": "2293b3ebd9ff879639034ae441e742318d13dc6c13407da999f4bd7936f47858",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/old/wc209.o": {
+      "sha256": "d6fa031db6747730f513356df67ef7577b8a211dc33bc344f5b2a506943c9ea8",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "1 A Word Counting Program/old/wc209.s": {
+      "sha256": "00c2660f0d61818d8750dfe9b18c4b80569055fcbeba76b07e90957156de49b7",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "2 String Manipulation/old/.DS_Store": {
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "2 String Manipulation/EE209 Assignment2.pdf": {
+      "sha256": "5211a0c84246a53db8310a28b5c3a7353a0abf066a3976d351423293a8de2915",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "2 String Manipulation/old/sgrep.c": {
+      "sha256": "bfdfcca49a8d8fce45ac47be4b35139c94c36ba1aa07648a86a6be6f6a94c64b",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "2 String Manipulation/old/str.c": {
+      "sha256": "7bca8bc2f9455ee842b80f379c8e8a299dae88f2d9131283b3b63e7fcd787ab4",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "2 String Manipulation/old/str.h": {
+      "sha256": "e82caa86df8ea919d7e7f7dce345a2e101463d588341cb8284a6dd1401a37780",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "3 Customer Management Table/old/.DS_Store": {
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "3 Customer Management Table/EE209 Assignment3.pdf": {
+      "sha256": "30d70b7917524df6377cfdf2ab642b3c4dd9f84d399676f43eacc78609c8a1d3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "3 Customer Management Table/old/customer_manager1.c": {
+      "sha256": "ca041dc1028504d6175c02d88162c93de69cd67dbe07cbbba264d24dbc200c53",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "3 Customer Management Table/old/customer_manager2.c": {
+      "sha256": "c0fdd32a8935a9b497a1b232a590c4407ee91c6c756fe90bf7ecf1bd44126246",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "4 Assembly Language Programming/old/.DS_Store": {
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "4 Assembly Language Programming/EE209 Assignment4.pdf": {
+      "sha256": "6f0e3b564b1f394054e4ccbddc72053b53220fe67754b374e0e9e5da9a19b9a9",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "4 Assembly Language Programming/old/mydc.s": {
+      "sha256": "7ce0e5e90f0323673b2de2f5662f7f1159b1a695dc2a33c20ea36f95fef30419",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "5 A Unix Shell/old/.DS_Store": {
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "5 A Unix Shell/EE209 Assignment5 Supplement.pdf": {
+      "sha256": "161789242776151f132f3f7ca1773579542156ba0dbd262015f0949adc429f61",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "5 A Unix Shell/EE209 Assignment5.pdf": {
+      "sha256": "178d4205953ea0254b27f1f51c8c3daa010618c96048de970122bdcc1f5665c2",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "5 A Unix Shell/old/dynarray.c": {
+      "sha256": "aedae38b78902ae04c26bc436460f8972fdc445e608fa462df55bb53b9eb1986",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "5 A Unix Shell/old/dynarray.h": {
+      "sha256": "780d188fe885e6aae0031da86706f441d4f8c996ffcfca472969f9bab9fa4d46",
+      "mode": 420,
+      "strip_wrong_comments": false
+    },
+    "5 A Unix Shell/old/ish.c": {
+      "sha256": "5dfa7992dc7c9960e895c29fc2559cb6f46a61502b5179d93e9d7c8021ce04fb",
+      "mode": 420,
+      "strip_wrong_comments": true
+    },
+    "5 A Unix Shell/old/makefile": {
+      "sha256": "4fb698a779e142912bcf59f642a772fa7c3cb53009402e19b07e5dc4163d88a4",
+      "mode": 420,
+      "strip_wrong_comments": true
+    }
+  },
+  "precepts": {
+    ".DS_Store": {
+      "sha256": "14de954f95e1073e509b6520e7c5c19df50b351a61c0f5bb32c4997cb568dd04",
+      "mode": 420
+    },
+    "ORIGINAL_PATHS.md": {
+      "sha256": "b9edf96ac90f9c8f8958dbcdafeb49aa926a4c53add0de8e51f294403d2512f7",
+      "mode": 420
+    },
+    "README.md": {
+      "sha256": "35f5c91981ad3bd4ef49d24b15a63125c1e4cc7ad8d32990c47776ceb1f45b87",
+      "mode": 420
+    },
+    "src/.DS_Store": {
+      "sha256": "215b5674c615b3879cc52fd5dcaa9cd5213e017fe7c6b0a5f3ef76174df5aec0",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/.DS_Store": {
+      "sha256": "37546d3602f467ba10ac32ca4a2d7f82befd8920e05052a63a8a8a2800908b90",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/README.md": {
+      "sha256": "04887012ad30290ab11702c63cc23e301677be5ac5768f43d7bcc2a9e91273d0",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/.DS_Store": {
+      "sha256": "211ec6ce9cde34a784639fad518ab1528971bc934080dec3f909f18cb27db1c5",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/data-types/test_datatypes.c": {
+      "sha256": "a2812351a2d93132d9fa70159e244efbd7cdd632676cc50c14b90236e6ae0d1e",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/multi-file/intmath.c": {
+      "sha256": "5197b3b1acff2eec2853456cd4e9f411a79b937a34ef7a5a5954d81ce26799df",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/multi-file/intmath.h": {
+      "sha256": "e4d17dc76b3f73380e3f06e94b4bdcf280a39dccaed35b3ea8155a6ad64baf70",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/multi-file/testintmath.c": {
+      "sha256": "4ae64a39b2a5c93fbe298c39c2743da1c2ed1dd1877fbadbb0334068e48f760b",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/symbolic-constants/circle1.c": {
+      "sha256": "343d7edeb0da9a78f76e7f68dc12f1fba44f93a97d229b02b5561475e3b6696e",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/symbolic-constants/circle2.c": {
+      "sha256": "5a575aa68630460b9a59c9118b564c55fe32cd5f02a3adf30d4d291da6697b5c",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/examples/symbolic-constants/circle3.c": {
+      "sha256": "2bdafce88e0aaacf772a8d695f77bbe4e8e6efd4ea6cd8e9aac9a683a77eaaa6",
+      "mode": 420
+    },
+    "src/02-c-fundamentals/src/circle.c": {
+      "sha256": "584e51ac370e9d6bd29714b3f66b5fda9e5dd2e2ce5c1214e526701d933f9d78",
+      "mode": 420
+    },
+    "src/03-multi-file-programs/.DS_Store": {
+      "sha256": "f7669ae7bfeda7caffa8659610dd1f63494445ad4d94b9a1c3cc5cd615f661be",
+      "mode": 420
+    },
+    "src/03-multi-file-programs/README.md": {
+      "sha256": "053ad625aee735b4be672d4ea05d600457eb8e99f819a113a5a13a9c6224e230",
+      "mode": 420
+    },
+    "src/03-multi-file-programs/intmath/intmath.c": {
+      "sha256": "5197b3b1acff2eec2853456cd4e9f411a79b937a34ef7a5a5954d81ce26799df",
+      "mode": 420
+    },
+    "src/03-multi-file-programs/intmath/intmath.h": {
+      "sha256": "e4d17dc76b3f73380e3f06e94b4bdcf280a39dccaed35b3ea8155a6ad64baf70",
+      "mode": 420
+    },
+    "src/03-multi-file-programs/intmath/testintmath.c": {
+      "sha256": "4ae64a39b2a5c93fbe298c39c2743da1c2ed1dd1877fbadbb0334068e48f760b",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/.DS_Store": {
+      "sha256": "1ed7c043ccc73576eba7456bf168cbbbf1e6593d823c6a7556866305b1bb7c69",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/README.md": {
+      "sha256": "9283fadd738e5bb124dbbf1b7b59392bf19191ea957aa43a0adfd45f0f74247e",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/arrays/primes.c": {
+      "sha256": "957e1096b1893d8f2e0f0b6baac1e9b3f7b3f0dfea300b21b2db01b74ab6e0d5",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/arrays/revfn1.c": {
+      "sha256": "3560d680fa29ad34a756b1ef23fec0a98e51aed3bc57bf141a55b4331ae8566c",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/arrays/revfn2.c": {
+      "sha256": "4c15356c97f949043c21dd1bac83ba7e16aefbe8fc10f9c344d5315b7bc10197",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/arrays/revfn3.c": {
+      "sha256": "24226c6e3253ab34724b248917fb0fa68abd36bd7c80e4b4b6bb4cb4050c2262",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/command-line/cp.c": {
+      "sha256": "0424cdc7d1383872eb65af252aff514c19b65867e9e7b73c90c981868ee4c773",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/command-line/printargv.c": {
+      "sha256": "45e1a95b5c4f55ec0636c766f39a086512d50123121a2e293d117a2368d79477",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/function-pointers/fnpointer.c": {
+      "sha256": "cda55007ec824c1ee7e0afa977e3b03a147250881a7a3cb13611308a9afcad1b",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/pointers/swap1.c": {
+      "sha256": "fce4ad201b792048f159082a855cc09bae61d25728f8623073176df0708da788",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/pointers/swap2.c": {
+      "sha256": "ea16445a3cc195ca48ffc836fce0323b8eb5124d5e935c9c48f9049df331076d",
+      "mode": 420
+    },
+    "src/04-arrays-pointers-and-functions/pointers/swap3.c": {
+      "sha256": "8290e6c726b6d8628c106ec1f9c1a8ef307f11061e3dcffc20801a2c4b1298c1",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/.DS_Store": {
+      "sha256": "c531dfbd05a56a9bfbd63c33395a1a07c2132b29d25ffb3c8404e9bc8216e1f1",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/README.md": {
+      "sha256": "c3d134d13ab3a2378946b360f8b738c45974e4709ccf812a3a721d6a4f83af6c",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/dynamic-memory/sort1.c": {
+      "sha256": "e31148bafb2e282245e02b81c35ad4558a88c220e5007b32b9b58defa3299523",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/dynamic-memory/sort2.c": {
+      "sha256": "b6331be893a6c5cd0408ae8a4430898ba5b239d00e01f5e9cbe654706c2318e6",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/dynamic-memory/sort3.c": {
+      "sha256": "3922cd0c8da084f2268220a1d6e1e78cf78b56112b9ab3d24c0063c5a35dd52f",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/dynamic-memory/sort4.c": {
+      "sha256": "c46de0003cb33bc2ae9e7528eee93947e575524ed59ce495d1922e8ecfa1bb15",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/pointer-operators/ptr_assignment.c": {
+      "sha256": "4d615371ca183b5ea4749f053e7f6619e9492c33ff396412098433d5f28206d4",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/pointer-operators/ptr_null.c": {
+      "sha256": "c6749ebb07141e2ee74e4e9f6779d9f3381bc291dbf18def270dcb83ffbee811",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/pointer-operators/ptr_relational.c": {
+      "sha256": "b4d74046cf324adb916d2b7addc322c77659175bcdd119690484c090cf3e6d77",
+      "mode": 420
+    },
+    "src/05-pointers-memory-and-structures/structures/point2d.c": {
+      "sha256": "06c192cfa0443a52b999ff987889d10135fbd4140463285678b45ec4f640e2ff",
+      "mode": 420
+    },
+    "src/06-dynamic-arrays/README.md": {
+      "sha256": "3cb7db38d2aa09397bf2f980c2dec07eec291821f05c97c9addabf56e63870ed",
+      "mode": 420
+    },
+    "src/06-dynamic-arrays/dynarray/dynarray.c": {
+      "sha256": "aedae38b78902ae04c26bc436460f8972fdc445e608fa462df55bb53b9eb1986",
+      "mode": 420
+    },
+    "src/06-dynamic-arrays/dynarray/dynarray.h": {
+      "sha256": "780d188fe885e6aae0031da86706f441d4f8c996ffcfca472969f9bab9fa4d46",
+      "mode": 420
+    },
+    "src/06-dynamic-arrays/dynarray/testdynarray.c": {
+      "sha256": "932d316eee2d6f6214e3d01ad3b35c290ae1527f8448de2a3bf3d690f8016c3b",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/.DS_Store": {
+      "sha256": "b4e3b9bebd13b49d546de058d6c6c4a0cba0483c0369481c67ca678c7e289576",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/README.md": {
+      "sha256": "bc7fed328c4d7bc4c39047a39cc6deb8c4821595a65eacff21e787c76fd2d0a4",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/hello/hello.c": {
+      "sha256": "6098cfd36a35924fd8a01cb47e9e688c67c6a8e5a9fde67718cb8235954bce0f",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/hello/hello.s": {
+      "sha256": "2085d806f476e99fffb7c944d28751703494c7ce37afb2ce9eacbbb6bcba08b3",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-signed/power.c": {
+      "sha256": "66e91361ed865b5312af4c892b82fe1232c4aacc8d0ff2ddbdac26c940400024",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-signed/power.s": {
+      "sha256": "63217f4c4517f2c65a5dfd9539ca854a466fd127de90c966588ae545179c6473",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-signed/powerflat.c": {
+      "sha256": "18155321528c556082b61650ec957a3352d5702bb628c1bf22b1335add07819d",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-unsigned/powerunsigned.c": {
+      "sha256": "a380e690c14a0509e15d0de1665dc942a8df07e7363db62a3befee4047ef8a8d",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-unsigned/powerunsigned.s": {
+      "sha256": "514e83287c9b0d1866e05ff7082a1d1cc255f7bd8d5e6552f067dfbef5563c58",
+      "mode": 420
+    },
+    "src/07-ia32-assembly-basics/power-unsigned/powerunsignedflat.c": {
+      "sha256": "b0b626d4a633848a891a20e6ebbe2e485bee29d87b39feb2e739980e42ddaa13",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/.DS_Store": {
+      "sha256": "f19ae400f3913b37951eaa21efbd615ef1ea461a531669703717b8a7990b5e3d",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/README.md": {
+      "sha256": "8ee4354e71093de8ce562d204bb7b88069995f9bd85eb667563d5dd277404181",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/array-addressing/sumarray.c": {
+      "sha256": "17a96947a755c9450e5d126101ea29c0477301a7ca08ddef3753c61704e7b03d",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/array-addressing/sumarraybasedisp.s": {
+      "sha256": "be69c526368839d9b7eb2ecde4443f0f5fb98023ef703cb30efd34185bbc568b",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/array-addressing/sumarrayflat.c": {
+      "sha256": "12487db0f7d4ddee1cbfa9f5bded561fc23a626e155b87f1c6d4c3882e96afd5",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/array-addressing/sumarrayindirect.s": {
+      "sha256": "49083df30a7eb69bcd1c92d3fe8cc040922c7ae394dbd7621e244875c5e59355",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/functions/powerfunction.c": {
+      "sha256": "c5f547d320f6e710799d15f7cb30e6554cfbe889ccb8a2c4524ea43965cae5d1",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/functions/powerfunction.s": {
+      "sha256": "0f8618eed1acad98f211b41686ed27910d0286b5c72861907d545207dcbc4cc6",
+      "mode": 420
+    },
+    "src/08-ia32-functions-and-addressing/functions/powerfunctionflat.c": {
+      "sha256": "8ddf7dfd1958a663d4eb637750ed9a1ff635158b2d79fe283ac7ffeea8e97c36",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/.DS_Store": {
+      "sha256": "daaa94a0d9be40121521fe481ad7dc64837ec1f2d2e010d9e2b9062ad6eb4f0e",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/README.md": {
+      "sha256": "3f6abdb7f2cecd18e2a8d501199bc2e82cc409440845ee84f9fd812a81279b7b",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/lexing/dfa.c": {
+      "sha256": "43fe5857d09ba8559d1634ad07d8dd9692a3853e28b7e96259be1b63322a87ec",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/hello.c": {
+      "sha256": "f782f780eec448d52b1fd79797be91d317f3fbb4f7d367d1bdd42e89a3f043ae",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testexec.c": {
+      "sha256": "de9717060cd1427b5152846173feba9d1fba2f03fe075c2fc22b39893e9ce07d",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testfork.c": {
+      "sha256": "63a538d572cd0681f7aa63df1868884105e9da130876ab1b17fdb771d38db431",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testforkexit.c": {
+      "sha256": "178d93c9a8a4e2cc9da4c35e96e939af6564d5b5e523f0a3b38556d943a5e7c6",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testforkloop.c": {
+      "sha256": "3f6e3f9b0d46f48861ab07fedc9c3d34095364249c4c667b0540eac3ec863329",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testforkret.c": {
+      "sha256": "2106d2abf038203beb37ecca0d59767aca24bac7b3b5d83c4528f3f8b0292ef2",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testforkwait.c": {
+      "sha256": "ea6b67126ca7b312ff39b3e23645d354e9564b9e01090ee0db75481bc7c9d0a3",
+      "mode": 420
+    },
+    "src/11-lexing-and-process-control/processes/testforkwaitexec.c": {
+      "sha256": "517d0f97c882637f6126338c66f7586367bbd082bda3b7758a373ce794d5feef",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/.DS_Store": {
+      "sha256": "10d57f1944e66a35da7f9f6076bd3acd721261bcfb3f6594e32baaf9a16b772e",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/README.md": {
+      "sha256": "59bc512051e43d12af2f428b41aa42f59c34f12d526001a18bc58f9af22845a2",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/file-descriptors/testdupforkexec.c": {
+      "sha256": "6f6f855498e6b16f74cf05e299aa84addb581cf5296d1cf69d0f3f5c73efaddf",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/file-descriptors/testdupin.c": {
+      "sha256": "f0c87793c0350ddf0490fa7a8c94aafd23c12a7254fff6bfa95fc250d71d6133",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/file-descriptors/testdupout.c": {
+      "sha256": "04f059f6aad38d5dd792a47d9ed3dded92ee4c8088b725f0a64ab60a253f6a83",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/signals/testsignal.c": {
+      "sha256": "30de1dd9a94153cf202ea9a0a999c0320b2dae82f319966b0e6dca8426b69994",
+      "mode": 420
+    },
+    "src/12-file-descriptors-and-signals/signals/testsignalignore.c": {
+      "sha256": "cb9467c0965e79b5b25dc47a0a00a4a8516d4a176be3bc2e7e78c011e3d2c37a",
+      "mode": 420
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Jeon Sangeon / 20180569
+Assignment 3 - Customer Management Table
+
+This is a retrospective learning/review version of the archived work.
+The original code is retained in ../old with WRONG: comments.
+Corrections and regression tests were prepared with OpenAI Codex assistance.
+New explanatory comments start with CORRECTED:.
+
+Build and run: ./run.sh
+Regression checks: ./run.sh --test
+The historical course sample binaries/test clients were not supplied.
+No signed ethics document has been created or represented as the author's.
+
+The array implementation grows in 1024-record units and has linear search.
+It is simple and compact but scans empty slots and existing records.
+The hash implementation owns each node once, indexes it by both ID/name,
+and rehashes at 75% load by doubling buckets up to 2^20. Lookups are
+expected O(1), with more pointer/storage overhead and O(n) rehash steps.
+ExpandCustomerDB implements expansion; RegisterCustomer triggers it.
